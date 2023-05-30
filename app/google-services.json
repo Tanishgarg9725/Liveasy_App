@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16697589267",
+    "project_id": "liveasy-logistics",
+    "storage_bucket": "liveasy-logistics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16697589267:android:8e9f750c567bab081089e6",
+        "android_client_info": {
+          "package_name": "com.example.liveasylogistics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPqHSOWw_yj-tTZ7KKBHM819Nd0Uy016A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
